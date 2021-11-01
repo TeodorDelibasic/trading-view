@@ -1,2 +1,5 @@
 # TradingView
-An implementation of the Trading view website in Java and C++
+
+An implementation of the Trading view website
+
+![Preview](Tetris.png)
