@@ -1,11 +1,10 @@
 # TradingView
 
-An implementation of the Trading view website
-- Database in sqlite for C++
+Implementation of the Trading view website
+
+- SQLite database for users and their purchases
 - Data fetched in real-time using the cURL library
-- JNI and DLL
-- Graphical represantion of chosen stock using candlesticks
-- Buying and selling stocks
-- Log in system
+- Dynamic-linked library for Java native methods implemented in C++
+- Graphical represantion of a chosen stock using candlesticks
 
 ![Preview](Preview.png)
